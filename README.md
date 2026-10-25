@@ -176,7 +176,3 @@ __pycache__/
 ```
 
 ---
-
-## 📄 Licença
-
-Projeto de estudo. Defina a licença que preferir (por exemplo, MIT) ao publicar.
